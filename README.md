@@ -25,9 +25,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
--  **Hobbies :** Futebol :Futebol
+-  **Hobbies :** Futebol⚽
 -  **Meu contato :** [Gustavo](gustavo.prado.pereira@escola.pr.gov.br)
--  **Languages :** JavaScript, HTML, Go
+-  **Languages :** JavaScript, HTML
   
 ---
 
