@@ -3,4 +3,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-[<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUSTAPRAD0)](https://github.com/anuraghazra/github-readme-stats)
