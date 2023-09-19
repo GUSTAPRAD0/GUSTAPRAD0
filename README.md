@@ -15,10 +15,10 @@
 </div>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-15-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+<img src="https://img.shields.io/badge/Anos-15-blue" />
+  <img src="https://img.shields.io/badge/Máquina-de-foco%20Aprendizagem-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-portugues%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languagem-portugues%20%26%20-brightgreen" />
 </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
