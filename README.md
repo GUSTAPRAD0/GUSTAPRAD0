@@ -14,13 +14,17 @@
        alt="snake" /></a>
 </div>
 
-<p align="center">
-  
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-15-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-portugues%20%26%20Sinhala-brightgreen" />
+</p>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
