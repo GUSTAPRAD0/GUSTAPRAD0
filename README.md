@@ -40,6 +40,9 @@
 
 -  **PONG DO JAVA :** https://editor.p5js.org/gustavo.prado.pereira/full/vR1WvEMzv
 
+  <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
